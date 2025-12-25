@@ -14,8 +14,8 @@
 		}
 	],
   "hero": {
-    "name": "Your Name",
-    "subtitle": "I'm the Unknown Developer."
+    "name": "James Zhang",
+    "subtitle": "I'm a Full-Stack Software Developer."
   },
   "about": {
     "title": "About me",
@@ -52,11 +52,11 @@
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "your-form-id"
+    "formId": "https://formspree.io/f/xojaowok"
   },
   "footer": {
-		"linkedin": "",
+		"linkedin": "linkedin.com/in/james-zhang-in-ai/",
 		"twitter": "",
-		"github": ""
+		"github": "https://github.com/ZuseGD"
 	}
 }
